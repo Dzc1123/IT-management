@@ -9,6 +9,7 @@ btree_pnode create_btree1(void)        //通过递归方法创建一个二叉树
 	scanf("%c",&ch);
 	if('#'==ch)
 	{
+	
 		return NULL;
 	}
 	else
